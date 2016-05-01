@@ -53,6 +53,7 @@
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="1945"
             android:id="@+id/tvYear" />
+
     </LinearLayout>
 
 </LinearLayout>
